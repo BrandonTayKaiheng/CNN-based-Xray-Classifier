@@ -11,9 +11,6 @@ Network Architecture
 ![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/2f660c4f-7f7e-4370-9ea5-628342c0055e)
 
 
-![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/49ce4a39-4207-4716-9805-0ef641c626f0)
 
-
-
-Example of Chest X Ray Classification
+Example of Chest X Ray Classification results 
 ![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/2f14ec52-bca2-43d0-9331-0dd549b70851)
