@@ -1,5 +1,5 @@
 # CNN-based-Xray-Classifier
-Convolutional Neural Networks for classifying chest Xrays as a pneumonia case or a normal case. Model implementation detailed in "model.ipynb"
+Convolutional Neural Networks for classifying chest Xrays as a pneumonia case or a normal case. Such models can provide a first pass in rapid diagnosis of respiratory infections, speeding up the triage and treatment processes at hospitals. This is particularly so during the pandemic period, as hospitals face high volumes of patients with potential respiratory infections, often with limited manpower and resources. Model implementation detailed in "model.ipynb"
 
 Dataset: https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images
 
