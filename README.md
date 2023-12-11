@@ -17,7 +17,7 @@ Dataset: https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images
 ### Example of Chest X Ray Classification results 
 
 
-![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/2f14ec52-bca2-43d0-9331-0dd549b70851)
+![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/ec69fda2-e673-46dd-b778-d221ca80fc06)
 
 
 
