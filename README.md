@@ -25,8 +25,12 @@ Dataset: https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images
 
 
 Confusion Matrix
+
+
 ![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/f2d9ee21-ca81-426b-8de9-914609625fc7)
 
 
 Loss-Epoch Plots
+
+
 ![image](https://github.com/BrandonTayKaiheng/CNN-based-Xray-Classifier/assets/115394445/e36d89ac-0d47-463c-b3bb-44ed825ff3b1)
